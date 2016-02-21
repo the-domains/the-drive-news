@@ -1,0 +1,28 @@
+name: The Drive News
+favicon: null
+layout_spectrum: 0.5080089571420103
+typography_spectrum: 0.7358640779275447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.42192181781865656
+  lightness: 0.96352479304187
+  saturation: 0.4498079507611692
+  rhythmicContrast: 0.4381736263167113
+purpose: []
