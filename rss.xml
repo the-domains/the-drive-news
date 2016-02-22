@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Drive News]]></title>
+        <description><![CDATA[The Drive News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 22:03:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Renault Alpine Vision Is France's Porsche Cayman Fighter]]></title>
+            <description><![CDATA[<article><h1>The Renault Alpine Vision Is France's Porsche Cayman Fighter</h1><p>Fast, French and-surprise-not blue. This is the Alpine Vision Concept, and it's the clearest message yet that Renault's new-old sub-brand is deadly serious about building performance cars. The Vision was unveiled Tuesday in Monaco, an evocative location for Alpine, a brand whose legend was all but forged in the Monte Carlo Rally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b99ce36f2ff8c72426f9053afe0f056e00bc3e97.jpg"></article>]]></description>
+            <link>http://www.thedrive.com/article/2199/the-renault-alpine-vision-is-frances-porsche-cayman-fighter</link>
+            <guid isPermaLink="false">73148d37-1442-4c79-87fc-7cf89252a5f3</guid>
+            <pubDate>Mon, 22 Feb 2016 22:01:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
