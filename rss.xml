@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Drive News]]></title>
         <description><![CDATA[The Drive News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-drive-news/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Mon, 22 Feb 2016 22:03:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/the-drive-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Volvo V90, Your Cure for the Common Crossover]]></title>
+            <description><![CDATA[<article><h1>The New Volvo V90, Your Cure for the Common Crossover</h1><p>And as the heavens parted, there was a family hauler bearing no resemblance to an SUV, crossover or minivan. The 2016 Volvo V90 is the long-since- leaked but nevertheless welcome wagon (see what we did there?) joining the XC90 SUV and S90 sedan atop Volvo's redrawn food chain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52c7cc941cb9f9e055ad7bc52125da30d8862f9d.jpg"></article>]]></description>
+            <link>http://www.thedrive.com/article/2236/the-new-volvo-v90-your-cure-for-the-common-crossover?xid=hl</link>
+            <guid isPermaLink="false">af3a5638-61f8-4d25-8d16-b93aeb93cd78</guid>
+            <pubDate>Mon, 22 Feb 2016 22:01:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Renault Alpine Vision Is France's Porsche Cayman Fighter]]></title>
             <description><![CDATA[<article><h1>The Renault Alpine Vision Is France's Porsche Cayman Fighter</h1><p>Fast, French and-surprise-not blue. This is the Alpine Vision Concept, and it's the clearest message yet that Renault's new-old sub-brand is deadly serious about building performance cars. The Vision was unveiled Tuesday in Monaco, an evocative location for Alpine, a brand whose legend was all but forged in the Monte Carlo Rally.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b99ce36f2ff8c72426f9053afe0f056e00bc3e97.jpg"></article>]]></description>
