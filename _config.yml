@@ -1,7 +1,7 @@
 name: The Drive News
 favicon: null
-layout_spectrum: 0.5080089571420103
-typography_spectrum: 0.7358640779275447
+layout_spectrum: 0.65191
+typography_spectrum: 0.68342
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.42192181781865656
-  lightness: 0.96352479304187
+  brandStrength: 0
+  lightness: 0.125
   saturation: 0.4498079507611692
   rhythmicContrast: 0.4381736263167113
 purpose: []
