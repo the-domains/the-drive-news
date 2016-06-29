@@ -1,5 +1,4 @@
-favicon: null
-name: The Drive News
+layout_spectrum: 0.1469216
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#5C6B73'
     - '#253237'
   lightness: 0.125
-typography_spectrum: 0.68342
+typography_spectrum: 0.2938433
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.1469216
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: The Drive News
