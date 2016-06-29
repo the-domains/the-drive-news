@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: The Drive News
 opengraph:
   image: null
   type: null
@@ -18,11 +16,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.65191
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
 color:
   saturation: 0.4498079507611692
   brandStrength: 0
@@ -34,7 +28,13 @@ color:
     - '#5C6B73'
     - '#253237'
   lightness: 0.125
-purpose: []
-favicon: null
-name: The Drive News
 typography_spectrum: 0.68342
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.1469216
+analytics:
+  twitter: null
+  google: null
+  facebook: null
