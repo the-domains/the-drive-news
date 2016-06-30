@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bennington Made]]></title>
         <description><![CDATA[Bennington Made]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-drive-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 12:27:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 12:27:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-drive-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bennington Made // Bennington Museum]]></title>
+            <description><![CDATA[<article><h1>Bennington Made // Bennington Museum</h1><p>Episode 2 of Bennington Made is here! Matt Harrington takes us on a tour of the 3D Digital: Here and Now exhibit at the Bennington Museum. We also have an exclusive interview with Robert Wolterstorff, the Executive Director of the Museum. Enjoy! MC</p></article>]]></description>
+            <link>https://vimeo.com/172839770</link>
+            <guid isPermaLink="false">0ea8a1b8-2ccc-4cd3-9c89-e896cf6dd562</guid>
+            <pubDate>Thu, 30 Jun 2016 12:27:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bennington Made // Bennington Potters]]></title>
             <description><![CDATA[<article><h1>Bennington Made // Bennington Potters</h1><p>Our first episode of "Bennington Made" brings us to Bennington Potters. Have a look at how this beautiful pottery is made from clay to final piece in the store. This is an ongoing series with CAT-TV and The Bennington Chamber! Enjoy! MC</p></article>]]></description>
