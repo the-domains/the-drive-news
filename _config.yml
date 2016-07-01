@@ -1,8 +1,30 @@
-layout_spectrum: 0.1469216
+typography_spectrum: 0.2938433
+color:
+  saturation: 0.4498079507611692
+  brandStrength: 0
+  rhythmicContrast: 0.4381736263167113
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  lightness: 0.125
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.1469216
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: The Drive News
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.4498079507611692
-  brandStrength: 0
-  rhythmicContrast: 0.4381736263167113
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  lightness: 0.125
-typography_spectrum: 0.2938433
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Drive News
