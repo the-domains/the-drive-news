@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bennington Made]]></title>
         <description><![CDATA[Bennington Made]]></description>
-        <link>https://thegrid.ai/the-drive-news/</link>
+        <link>https://thegrid.ai/benningtonmade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 02:52:56 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/the-drive-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 03:39:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benningtonmade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a666d59b-d78d-4c20-87ea-01ce73bf13a6.jpg">]]></description>
+            <link>https://thegrid.ai/benningtonmade/c93535b6-be91-4819-902c-f87a79568c9b/index.html</link>
+            <guid isPermaLink="false">c93535b6-be91-4819-902c-f87a79568c9b</guid>
+            <pubDate>Fri, 01 Jul 2016 03:38:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcf43bb0-ce9e-4d49-b02f-661f6d6a9673.jpg">]]></description>
-            <link>https://thegrid.ai/the-drive-news/871bb999-ff68-4e57-a9c3-0b4f99159155/index.html</link>
+            <link>https://thegrid.ai/benningtonmade/871bb999-ff68-4e57-a9c3-0b4f99159155/index.html</link>
             <guid isPermaLink="false">871bb999-ff68-4e57-a9c3-0b4f99159155</guid>
             <pubDate>Fri, 01 Jul 2016 02:52:30 GMT</pubDate>
         </item>
