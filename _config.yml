@@ -17,11 +17,11 @@ color:
   brandStrength: 0
   lightness: 0.7939068
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#DEDDD9'
+    - '#3D7141'
+    - '#33322E'
+    - '#A6A39C'
+    - '#6C9069'
   rhythmicContrast: 0.8620071
 cta:
   bucket: null
