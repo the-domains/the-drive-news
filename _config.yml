@@ -1,5 +1,30 @@
-title: ''
-purpose: []
+typography_spectrum: 0.2938433
+color:
+  saturation: 0.8225806
+  brandStrength: 0
+  lightness: 0.7939068
+  brandColors:
+    - '#DEDDD9'
+    - '#3D7141'
+    - '#33322E'
+    - '#A6A39C'
+    - '#6C9069'
+  rhythmicContrast: 0.8620071
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.22165820351801813
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Bennington Made
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.8225806
-  brandStrength: 0
-  lightness: 0.7939068
-  brandColors:
-    - '#DEDDD9'
-    - '#3D7141'
-    - '#33322E'
-    - '#A6A39C'
-    - '#6C9069'
-  rhythmicContrast: 0.8620071
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Bennington Made
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2938433
-layout_spectrum: 0.22165820351801813
+title: Bennington Made
+purpose: []
