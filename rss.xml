@@ -4,8 +4,15 @@
         <description><![CDATA[Bennington Made]]></description>
         <link>https://thegrid.ai/benningtonmade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 02:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:48:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/benningtonmade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bennington Made // Bennington Museum]]></title>
+            <description><![CDATA[<article><h1>Bennington Made // Bennington Museum</h1><p>Episode 2 of Bennington Made is here! Matt Harrington takes us on a tour of the 3D Digital: Here and Now exhibit at the Bennington Museum. We also have an exclusive interview with Robert Wolterstorff, the Executive Director of the Museum. Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f46244fc1106aee5e766bd23bde54d4/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578824049_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/172839770</link>
+            <guid isPermaLink="false">6f5ee2fb-35d7-4672-814b-c2c7c08e58c8</guid>
+            <pubDate>Sun, 21 Aug 2016 02:48:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bennington Made // Bennington Potters]]></title>
             <description><![CDATA[<article><h1>Bennington Made // Bennington Potters</h1><p>Our first episode of "Bennington Made" brings us to Bennington Potters. Have a look at how this beautiful pottery is made from clay to final piece in the store. This is an ongoing series with CAT-TV and The Bennington Chamber! Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61dd306040ad6e866246aff0a474c434/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578884374_1920x1080.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://vimeo.com/172839793</link>
             <guid isPermaLink="false">3c212b96-de4e-4b63-8b76-65e4147e64a7</guid>
             <pubDate>Sun, 21 Aug 2016 02:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bennington Made // Bennington Museum]]></title>
-            <description><![CDATA[<article><h1>Bennington Made // Bennington Museum</h1><p>Episode 2 of Bennington Made is here! Matt Harrington takes us on a tour of the 3D Digital: Here and Now exhibit at the Bennington Museum. We also have an exclusive interview with Robert Wolterstorff, the Executive Director of the Museum. Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f46244fc1106aee5e766bd23bde54d4/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578824049_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/172839770</link>
-            <guid isPermaLink="false">6f5ee2fb-35d7-4672-814b-c2c7c08e58c8</guid>
-            <pubDate>Sun, 21 Aug 2016 02:36:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
