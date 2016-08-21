@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bennington Made]]></title>
+        <description><![CDATA[Bennington Made]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 02:36:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bennington Made // Bennington Potters]]></title>
+            <description><![CDATA[<article><h1>Bennington Made // Bennington Potters</h1><p>Our first episode of "Bennington Made" brings us to Bennington Potters. Have a look at how this beautiful pottery is made from clay to final piece in the store. This is an ongoing series with CAT-TV and The Bennington Chamber! Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/61dd306040ad6e866246aff0a474c434/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578884374_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/172839742</link>
+            <guid isPermaLink="false">a117923a-0366-45e6-8df6-c6fd07d30e15</guid>
+            <pubDate>Sun, 21 Aug 2016 02:36:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
