@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T02:48:30.777Z'
+datePublished: '2016-08-21T15:13:51.932Z'
 sourcePath: _posts/2016-08-21-bennington-made-jays-frame-shop.md
 isBasedOnUrl: 'https://vimeo.com/172892213'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://vimeo.com/mhcphotography'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T02:48:30.434Z'
+dateModified: '2016-08-21T15:13:51.459Z'
 title: Bennington Made // Jay's Frame Shop
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/172892213'
