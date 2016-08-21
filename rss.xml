@@ -4,8 +4,15 @@
         <description><![CDATA[Bennington Made]]></description>
         <link>https://thegrid.ai/benningtonmade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 02:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 02:48:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/benningtonmade/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bennington Made // Bennington Lanes]]></title>
+            <description><![CDATA[<article><h1>Bennington Made // Bennington Lanes</h1><p>The trifecta of the 'Bennington Made' series takes us down the bowling lanes of Bennington Lanes. We get to see how these machines from the 50's keep the balls and pins moving. Plus we get to take a whack at the new indoor golf simulator! Take a look! Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffcbcc1f01af77848fb4bc3f78f039e5/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578884523_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/172839793</link>
+            <guid isPermaLink="false">3c212b96-de4e-4b63-8b76-65e4147e64a7</guid>
+            <pubDate>Sun, 21 Aug 2016 02:48:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bennington Made // Bennington Museum]]></title>
             <description><![CDATA[<article><h1>Bennington Made // Bennington Museum</h1><p>Episode 2 of Bennington Made is here! Matt Harrington takes us on a tour of the 3D Digital: Here and Now exhibit at the Bennington Museum. We also have an exclusive interview with Robert Wolterstorff, the Executive Director of the Museum. Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f46244fc1106aee5e766bd23bde54d4/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578824049_1920x1080.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://vimeo.com/172892213</link>
             <guid isPermaLink="false">7266bf9d-1c39-4508-a260-488e216027db</guid>
             <pubDate>Sun, 21 Aug 2016 02:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bennington Made // Bennington Lanes]]></title>
-            <description><![CDATA[<article><h1>Bennington Made // Bennington Lanes</h1><p>The trifecta of the 'Bennington Made' series takes us down the bowling lanes of Bennington Lanes. We get to see how these machines from the 50's keep the balls and pins moving. Plus we get to take a whack at the new indoor golf simulator! Take a look! Enjoy! MC</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffcbcc1f01af77848fb4bc3f78f039e5/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578884523_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/172839793</link>
-            <guid isPermaLink="false">3c212b96-de4e-4b63-8b76-65e4147e64a7</guid>
-            <pubDate>Sun, 21 Aug 2016 02:36:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
