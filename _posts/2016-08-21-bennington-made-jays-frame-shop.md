@@ -1,19 +1,16 @@
 ---
+datePublished: '2016-08-21T02:48:30.777Z'
+sourcePath: _posts/2016-08-21-bennington-made-jays-frame-shop.md
+isBasedOnUrl: 'https://vimeo.com/172892213'
+keywords: []
+related: []
 author:
   - name: Mike Cutler
     url: 'https://vimeo.com/mhcphotography'
     avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: >-
-  Our 4th episode brings us into Jay's Frame Shop & Art Gallery in downtown
-  Bennington. Here they have been hand making frames since 1972! Let's take a
-  look at the great craftsmanship at work here. Enjoy! MC
+via: {}
+dateModified: '2016-08-21T02:48:30.434Z'
+title: Bennington Made // Jay's Frame Shop
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/172892213'
     type: ios
@@ -41,18 +38,21 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/172892213'
-title: Bennington Made // Jay's Frame Shop
-datePublished: '2016-08-21T02:37:39.832Z'
-dateModified: '2016-08-21T02:36:28.872Z'
-via: {}
+publisher:
+  url: 'https://vimeo.com/'
+  name: Vimeo
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+  domain: vimeo.com
+description: >-
+  Our 4th episode brings us into Jay's Frame Shop & Art Gallery in downtown
+  Bennington. Here they have been hand making frames since 1972! Let's take a
+  look at the great craftsmanship at work here. Enjoy! MC
 starred: false
-sourcePath: _posts/2016-08-21-bennington-made-jays-frame-shop.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F172892213&amp;url=https%3A%2F%2Fvimeo.com%2F172892213&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F578884773_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
